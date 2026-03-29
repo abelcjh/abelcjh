@@ -31,8 +31,6 @@
 | ![LangChain/LlamaIndex](https://img.shields.io/badge/AI_Agents-FF9900?style=flat-square&logo=openai&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 | ![Mistral API](https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=meta&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 
-*(Note: I switched the badge style to `flat-square` for a sharper, more modern look, and added placeholders for the AI tooling you use).*
-
 ---
 
 ### 📊 github stats
