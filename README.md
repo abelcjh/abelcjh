@@ -47,8 +47,7 @@
 ---
 
 ### 🧑🏻‍💻 weekly coding stats
-
-
+<!-- ### ⏱️ Weekly Coding Stats -->
 
 ---
 

@@ -6,6 +6,9 @@ on:
     # Runs automatically at 12:00 AM UTC every day
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with WakaTime Stats
