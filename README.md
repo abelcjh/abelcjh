@@ -47,7 +47,8 @@
 ---
 
 ### 🧑🏻‍💻 weekly coding stats
-<!-- ### ⏱️ Weekly Coding Stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
