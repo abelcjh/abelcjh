@@ -1,10 +1,9 @@
-## hey!
+## hey! i'm abel 👋
 
-<div align="center">
+<!-- <div align="center">
   <img src="public/AbelChinGitHubBanner.png" alt="Abel Chin GitHub Banner" />
-</div>
+</div> -->
 
-<h1 align="center">i'm abel 👋</h1>
 <h3 align="center">currently an indie ai engineer, ex nus cs, resuming my undergrad studies in sg this july 2026</h3>
 
 <div align="center">
@@ -19,7 +18,7 @@
 - 🌱 i'm currently learning **OpenClaw**
 - 🤝 i'm looking to collaborate on **my startup endeavor and Nyala Labs' future events**
 - 💬 hit me up and let's have a coffee chat!
-- 📫 how to reach me: **[abelchinjh@gmail.com]**
+- 📫 how to reach me: **[abelchinjh@gmail.com](mailto:abelchinjh@gmail.com)**
 
 ---
 
