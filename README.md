@@ -1,8 +1,8 @@
 ## hey! i'm abel 👋
 
-<!-- <div align="center">
+<div align="center">
   <img src="public/AbelChinGitHubBanner.png" alt="Abel Chin GitHub Banner" />
-</div> -->
+</div>
 
 <h3 align="center">currently an indie ai engineer, ex nus cs, resuming my undergrad studies in sg this july 2026</h3>
 
